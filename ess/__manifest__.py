@@ -5,7 +5,7 @@
     'images': ['static/description/app_logo.jpg'],
     'license': 'OPL-1',
     'category':  'Website',
-    'depends': ['base', 'portal', 'website', 'account', 'hr_employee_letter', 'hr_payroll', 'Employee_Training', 'hr_appraisal'],
+    'depends': ['base', 'portal', 'website', 'account', 'hr_employee_letter', 'hr_payroll', 'hr_appraisal'],
     'data': [
         'views/portal_templates.xml',
         'views/portal_network_directory.xml',
